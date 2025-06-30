@@ -27,3 +27,8 @@ replay_pid*
 .kotlin/
 /.idea/
 /domain/build/
+/app/build/
+/buildSrc/.gradle/
+/buildSrc/build/
+/.gradle/
+/data/build/
